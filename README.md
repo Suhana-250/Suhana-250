@@ -20,7 +20,7 @@
 - 🧠 Node.js • 🔥 Firebase • 🍃 MongoDB 
 
 🧪 **Tools & APIs:**  
-- 🛠 Git + GitHub • 🧪 Postman • 🔐 Firebase Auth,
+- 🛠 Git + GitHub • 🧪 Postman • 🔐 Firebase Auth
 
 ## 📊 GitHub Stats
 
