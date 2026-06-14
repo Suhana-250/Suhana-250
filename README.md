@@ -1,9 +1,12 @@
 <h1 align="center">Hi there, I'm Suhana Bansal👋</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">A passionate software developer</h3>
+<div align="center">
+  <a href="https://www.linkedin.com/in/suhana-bansal-608519257/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="LinkedIn" /></a>
+  <a href="suhanabansal0mailto:@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://leetcode.com/u/suhanabansal4/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=LeetCode&logoColor=white" alt="LeetCode" />
+</a>
 
-🚀 I'm a passionate **Full Stack Developer** with a strong foundation in building scalable web apps using the **MERN stack**. 
-
-📧 Reach out to me [suhanabansal0@gmail.com](mailto:suhanabansal0@gmail.com)
+</div>
 
 ### 🛠️ Tech Toolbox
 
@@ -11,7 +14,7 @@
 - 🌐 JavaScript • HTML • CSS • C++
 
 🧩 **Frontend:**  
-- ▲ Next.js • ⚛️ React.js • 🚀 Vite • 🎨 Tailwind CSS • 📦 Material UI
+- ▲ Next.js • ⚛️ React.js • 🔷 TypeScript • 🚀 Vite • 🎨 Tailwind CSS • 📦 Material UI
 
 🛠️ **Backend & Database:**  
 - 🧠 Node.js • 🔥 Firebase • 🍃 MongoDB 
